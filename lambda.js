@@ -1,6 +1,6 @@
 
 const PORT= process.env.port || 3000;
-const HOST= process.env.host || 'mein.host.name';
+const HOST= process.env.host || 'n.fabiankirchschlager.de';
 
 
 // entry
