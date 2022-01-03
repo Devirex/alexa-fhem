@@ -5,7 +5,7 @@
   "author": "justme-1968,Devirex",
   "license": "ISC",
   "bin": {
-    "alexa-fhem": "./bin/alexa-devirex"
+    "alexa-fhem-devirex": "./bin/alexa-devirex"
   },
   "keywords": [
     "alexa",
