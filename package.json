@@ -3,7 +3,7 @@
   "author": "justme-1968",
   "license": "ISC",
   "bin": {
-    "alexa-fhem-devirex": "./bin/alexa"
+    "alexa-fhem": "./bin/alexa"
   },
   "keywords": [
     "alexa",
