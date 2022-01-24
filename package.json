@@ -1,9 +1,9 @@
 {
   "description": "a fhem skill for amazon alexa",
-  "author": "justme-1968,Devirex",
+  "author": "justme-1968",
   "license": "ISC",
   "bin": {
-    "alexa-fhem-devirex": "./bin/alexa-devirex"
+    "alexa-fhem-devirex": "./bin/alexa"
   },
   "keywords": [
     "alexa",
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Devirex/alexa-fhem.git"
+    "url": "https://github.com/justme-1968/alexa-fhem.git"
   },
   "engines": {
     "node": ">=8.0.0"
